@@ -1,5 +1,5 @@
 /*
- * Copyright © 2014 Duncan Fairley
+ * Copyright Â© 2014 Duncan Fairley
  * Distributed under the GNU Affero General Public License, version 3.
  * Your changes must be made public.
  * For the full license text, see LICENSE.txt.
@@ -43,7 +43,7 @@ clan_wars
 			else if(deatheater < aurors)
 				var/aurorwinner = pick(aurorWon)
 				Players << "<font color='#66CCFF' size='3'><b>[aurorwinner]<b></font>"
-				c = "#aed3e2"
+				c = "#9dc7ec"
 			else
 				var/wardraw = pick(draw)
 				Players << "<font color='#E5E4E2' size='3'><b>[wardraw]</b></font>"
